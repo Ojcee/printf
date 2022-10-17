@@ -8,4 +8,4 @@ This project is aimed at solidifying different concepts we've learnt over the pa
 This project is a two team members:
 * https://github.com/Ojcee
 * https://github.com/whizdhum
-### Things we learnt during this task
+
