@@ -7,5 +7,5 @@ This project is aimed at solidifying different concepts we've learnt over the pa
 ### Collaborators
 This project is a two-man team of team members:
 * https://github.com/Ojcee
-* 
+* https://github.com/whizdhum
 ### Things we learnt during this task
